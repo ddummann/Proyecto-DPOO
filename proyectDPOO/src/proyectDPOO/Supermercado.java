@@ -12,4 +12,8 @@ public class Supermercado {
 		// commit 6 6:31
 	}
 	public String hola  = "hola"
+	public String holaaa  = "holaaa"
+	public String holaaaaaaaa  = "hoooooola"
+	
+			
 }
